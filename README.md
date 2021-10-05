@@ -1,5 +1,5 @@
 ---
-ℹ **Please note**: This repository is a Digital Worker example (Robot) adapted from an open source [Robocorp Example][og:bot] used in an internal demo. Changes should only be made for the purposes of updating the initial process.
+ℹ Please note: This repository is a Digital Worker example (Robot) adapted from an open source Robocorp Example used in an internal exercise. See "Licenses and Attributions" for more details below.
 ---
 
 # 📋️ Process PDF Invoices — Digital Worker `Example`
