@@ -1,0 +1,8 @@
+{
+  "cSpell.words": ["conda", "devdata", "PYTHONPATH", "Robocorp"],
+  "markdown.extension.toc.levels": "3..6",
+  "markdownlint.config": {
+    "default": true,
+    "MD033": { "allowed_elements": ["br"] }
+  }
+}
