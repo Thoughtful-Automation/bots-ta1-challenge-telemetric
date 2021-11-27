@@ -53,6 +53,7 @@ _Table of Contents:_
      "RPA_SECRET_FILE": "/Users/username/vault.json"
    }
    ```
+3. Update `S3_BUCKET_NAME` to be unique in the [invoices.resource](https://github.com/Thoughtful-Automation/bots-ta1-challenge-telemetric/blob/main/resources/invoices.resource#L5).  S3 buckets must be globally unique so the first change you make might not work.  If the bucket is not unique you will see the `BucketAlreadyExists` error is in the output.
 
 ## Running
 
